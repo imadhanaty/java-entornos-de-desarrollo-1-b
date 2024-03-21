@@ -1,5 +1,3 @@
-package modelos;
-
 
 import java.util.*;
 
@@ -54,7 +52,7 @@ public class persona {
      * @param dni
      */
     public void setDni(String dni) {
-      this.dni=dni;
+        // TODO implement here
     }
 
     /**
@@ -62,7 +60,7 @@ public class persona {
      */
     public String getDni() {
         // TODO implement here
-        return this.dni;
+        return "";
     }
 
     /**
